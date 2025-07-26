@@ -1,2 +1,1 @@
-- My name is Yousif Aldousari
-- I’m currently learning Data Science and AI with CODED Academy
+
